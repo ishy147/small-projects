@@ -1,0 +1,8 @@
+This script Runs the minecraft server JAR file to start the server.
+
+notes!
+if you wish to give the server more ram change the "1" in both locations to the amount of Gigabytes you wish.
+
+if your Jar file isn't names server.jar, then you will need to rename the jar file in this script to match
+
+you can keep nogui if you wish to keep it all terminal base, or you can remove it. (user preference)

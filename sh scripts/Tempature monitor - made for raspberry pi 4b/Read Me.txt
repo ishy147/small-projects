@@ -1,0 +1,12 @@
+This script will check the tempature of the CPU from the /sys/class/thermal/thermal_zone0/temp file for 5 minutes then ask to continue if the user wishes to continue monitoring
+
+##plans for future editions##
+1) make the output formated
+2) make the output look pretty
+3) allow user to set the durration of tempature monitoring
+
+Notes!!
+Output example: 46759
+which means 46.759C (Celcius)
+
+if you wish to stop it before the end time, you will have to press "Control + C" to stop the program, or wait till prompted to end the script
